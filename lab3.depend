@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1587557154 source:c:\users\danil\desktop\lab3\class.cpp
+	"class.h"
+
+1587557154 c:\users\danil\desktop\lab3\class.h
+	<cstring>
+	<iostream>
+	<math.h>
+
+1587556746 source:c:\users\danil\desktop\lab3\main.cpp
+	<iostream>
+	"class.h"
+
